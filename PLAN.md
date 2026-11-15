@@ -12,7 +12,7 @@ Sabit etiketler: `#eczahanem #ilaçdolabı #sonkullanmatarihi #evdüzeni`
 | # | Tarih | Biçim | Görsel | Konu |
 |---|---|---|---|---|
 | 1 | 15 Kas Paz | Reels | `reels/tanitim-01.mp4` | Tanıtım videosu ✅ yayında |
-| 2 | 16 Kas Pzt | Gönderi | `gonderiler/G02-duyuru.jpg` | Yayın duyurusu, mağaza rozetleri |
+| 2 | 15 Kas Paz | Gönderi | `gonderiler/G02-duyuru.jpg` | Yayın duyurusu, mağaza rozetleri ✅ yayında |
 | 3 | 18 Kas Çar | Gönderi | `gonderiler/G03-karekod.jpg` | Karekodla ekleme |
 | 4 | 20 Kas Cum | Gönderi | `gonderiler/G04-takip.jpg` | Son kullanma takibi |
 | 5 | 22 Kas Paz | Gönderi | `gonderiler/G05-ipuclari.jpg` | İlaç dolabını 4 adımda düzenle |
